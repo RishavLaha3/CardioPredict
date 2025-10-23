@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+venv/
+
+# PyCharm / VSCode / IDE settings
+.idea/
+.vscode/
+
+# System files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Data files or model outputs
+*.pkl
+*.csv
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
