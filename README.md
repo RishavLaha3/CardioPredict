@@ -34,7 +34,7 @@ source .venv/bin/activate   # On Windows: .venv\Scripts\activate
 ### 3. Install dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install fastapi uvicorn pydantic scikit-learn pandas numpy
 ```
 
 ### 4. Run the API
